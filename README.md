@@ -3,6 +3,27 @@
 ## 1. Overview
 Developed an interactive Power BI dashboard to analyze sales performance, product category trends, and customer sentiment for BigMart. Integrated multiple datasets to provide a unified view of total sales, product ratings, and outlet performance.
 
+## 🖼️ Primary Dashboard View
+
+****
+![BigMart Dashboard Overview](big-mart_dashboard_overview.png)
+
+## 2. Key Analysis: Inventory & Item Performance
+
+This dashboard page utilizes calculated measures (DAX) to track sales density and profit per item category. The analysis identified the top 5 highest-margin products and exposed categories suffering from high return rates, informing inventory purchasing decisions.
+
+****
+![Item Analysis View](big-mart_dashboard_item-analysis.png)
+
+## 3. Customer & Segment Insights
+
+We integrated customer survey data to correlate feedback scores with sales performance. The analysis provides key demographic insights and identifies the most valuable customer segments, allowing marketing to optimize spend and target outreach effectively.
+
+****
+![Customer Feedback Analysis View](big-mart_dashboard_customer-feedback-analysis.png)
+
+---
+
 ### 🎯 Goal
 The objective was to consolidate multi-dimensional Key Performance Indicators (KPIs) into a single, interactive source to improve decision-making speed for strategic planning and sales optimization.
 
