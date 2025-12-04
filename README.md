@@ -45,5 +45,4 @@ The objective was to consolidate multi-dimensional Key Performance Indicators (K
 - **Efficiency:** Improved decision-making speed by **consolidating multi-dimensional KPIs** into a single interactive dashboard, replacing multiple static reports.
 
 ## 5. View Project
-- **Live Interactive Dashboard:** [Insert Your NovyPro or Tableau Public Link Here]
 - **Source File:** bigmart dashboard.pbix (Available in this repository)
